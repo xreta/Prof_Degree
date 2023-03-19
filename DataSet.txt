@@ -1,0 +1,7 @@
+One dataset I came across is the Cristiano Ronaldo Transfer Data, available on the Transfermarkt website. This dataset contains information on all the transfers that Cristiano Ronaldo has made throughout his professional football career, including transfer fees, the teams involved, and the years in which the transfers took place.
+
+Not only that but it also gives the information about the stats Ronaldo had in those years with those teams.  
+
+I find this dataset interesting because it allows for a comprehensive analysis of Ronaldo's career in terms of transfers, stats and the financial aspect of his career. It also provides insights into the strategies and decisions made by football clubs and agents in the transfer market.
+
+This dataset can be used for a variety of analysis, such as examining trends in transfer fees over time, identifying patterns in the teams Ronaldo has played for, and comparing his transfers with those of other football players.

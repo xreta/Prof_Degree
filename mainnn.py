@@ -12,7 +12,7 @@ with open('slurs.txt', 'r') as file:
     # Read the racial slurs into a set
     racialSlurs = set(file.read().split())
 
-# Define a function to calculate the degree of profanity for each tweet
+# to calculate the degree of profanity for each tweet
 def calculate_profanity(tweet):
 
     # Use regular expressions to split the tweet into words
@@ -31,7 +31,7 @@ def calculate_profanity(tweet):
     else:
         return "Highly profane"
 
-# Calculate the degree of profanity for each tweet and print the results
+# Calculate the degree of profanity for each tweet 
 for tweet in tweets:
     degree_of_profanity = calculate_profanity(tweet)
     print(f"{tweet.strip()} :: {degree_of_profanity}")
